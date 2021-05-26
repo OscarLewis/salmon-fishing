@@ -4,7 +4,7 @@ This is a repository containing data for use in my Geography 462 group project e
 # Datasets
 This repo contains 3 main datasets: \
 \
-Benthic Quality data from [The Puget Sound Partnership](https://pugetsoundstreambenthos.org/Biotic-Integrity-Map.aspx) \
+Benthic Quality data from [Puget Sound Stream Benthos Partnership](https://pugetsoundstreambenthos.org/Biotic-Integrity-Map.aspx) \
 Fishing Effort data from [Global Fishing Watch](https://globalfishingwatch.org/) \
 Seagrass Monitoring data from [Washington Department of Natural Resources](https://www.arcgis.com/apps/webappviewer/index.html?id=83b8389234454abc8725827b49272a31)
 
