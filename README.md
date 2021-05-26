@@ -2,7 +2,7 @@
 This is a repository containing data for use in my Geography 462 group project examining the impact of commercial fishing on nearshore Salmon habitats in the Puget Sound.
 
 # Datasets
-This repo contains 3 main datasets: \
+This repo contains 3 datasets: \
 \
 Benthic Quality data from [Puget Sound Stream Benthos Partnership](https://pugetsoundstreambenthos.org/Biotic-Integrity-Map.aspx). \
 Fishing Effort data from [Global Fishing Watch](https://globalfishingwatch.org/). \
@@ -10,4 +10,4 @@ Seagrass Monitoring data from [Washington Department of Natural Resources](https
 
 All data has been converted to the [GeoPackage](https://github.com/opengeospatial/geopackage) format (.GPKG) and projected in [ESPG:6339](https://epsg.io/6339).
 
-Please read the documentation for each set in their respective folders. 
+Please read the documentation for each dataset in their respective folders. 
