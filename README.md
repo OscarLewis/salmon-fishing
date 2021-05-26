@@ -8,6 +8,6 @@ Benthic Quality data from [Puget Sound Stream Benthos Partnership](https://puget
 Fishing Effort data from [Global Fishing Watch](https://globalfishingwatch.org/) \
 Seagrass Monitoring data from [Washington Department of Natural Resources](https://www.arcgis.com/apps/webappviewer/index.html?id=83b8389234454abc8725827b49272a31)
 
-All data has been converted to the [GeoPackage](https://www.geopackage.org/) format (.GPKG) and projected in [ESPG:6339](https://epsg.io/6339)
+All data has been converted to the [GeoPackage](https://github.com/opengeospatial/geopackage) format (.GPKG) and projected in [ESPG:6339](https://epsg.io/6339)
 
 Please read the documentation for each set in their respective folders. 
