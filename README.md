@@ -8,6 +8,6 @@ This repo contains 3 datasets:
 * Fishing Effort data from [Global Fishing Watch](https://globalfishingwatch.org/).
 * Seagrass Monitoring data from [Washington Department of Natural Resources](https://data-wadnr.opendata.arcgis.com/).
 
-All data has been converted to the [GeoPackage](https://github.com/OscarLewis/salmon-fishing/wiki/GeoPackage) format (.GPKG) and projected in [ESPG:6339](https://epsg.io/6339).
+All data has been converted to the [GeoPackage](https://github.com/OscarLewis/salmon-fishing/wiki/GeoPackage-Explanation) format (.GPKG) and projected in [ESPG:6339](https://epsg.io/6339).
 
 Please read the documentation for each dataset in their respective folders, additional information can be found in the [wiki](https://github.com/OscarLewis/salmon-fishing/wiki). 
